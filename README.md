@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there I’m @khanglag👋
 
+- 🔭 I’m currently working on Java
+- 👀 I’m interested in Java
+- 👯 I’m looking to collaborate on ...
 <!--
 **khanglag/khanglag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
